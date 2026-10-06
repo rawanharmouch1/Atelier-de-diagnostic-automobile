@@ -2,7 +2,7 @@
 
 WordPress website for an automotive workshop.
 
-\##how to run 
+## How to run 
 
 1. Clone the repository.
 2. Create a local WordPress site.
