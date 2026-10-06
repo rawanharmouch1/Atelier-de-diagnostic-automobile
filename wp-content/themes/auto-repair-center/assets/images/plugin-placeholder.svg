@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="18" fill="#f4f4f6"/>
+  <path d="M60 26l-18 10v32l18 10 18-10V36z" fill="#ffffff" stroke="#d1d1d6" stroke-width="2"/>
+  <path d="M42 38h36v15H42z" fill="#e5e5ea"/>
+  <text x="50%" y="80%" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a4a4f" text-anchor="middle">Plugin</text>
+</svg>
