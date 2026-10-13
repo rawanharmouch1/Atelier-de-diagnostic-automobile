@@ -51,8 +51,11 @@ app/public
 ### 6. Import the database 
 
 In LocalWP ,  open: 
+
 Database > Open Adminer 
+
 select the local database and click Import.
+
 Import this file:
 
 ``` text
@@ -75,14 +78,20 @@ define(`DB_HOST`, `localhost`);
 ### 8. Start the website 
 
 Go back to LocalWP and click :
+
 Start site 
+
 then click:
+
 Open site 
+
 the website should now open in your browser.
 
 ### 9. Open the WordPress dashboard 
 In LocalWP, click:
+
 WP Admin
+
 Then log in to the WordPress dashboard .
 
 
